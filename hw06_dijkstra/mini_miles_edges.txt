@@ -1,0 +1,11 @@
+Seattle_WA Redmond_WA 1
+Seattle_WA Bellevue_WA 2
+Bellevue_WA Redmond_WA 5
+Bellevue_WA Chicago_IL 3
+Chicago_IL Redmond_WA 1
+Austin_TX Chicago_IL 2
+NewYorkCity_NY Austin_TX 1
+Chicago_IL NewYorkCity_NY 5
+NewYorkCity_NY Boston_MA 1
+Chicago_IL Boston_MA 4
+Redmond_WA Boston_MA 15

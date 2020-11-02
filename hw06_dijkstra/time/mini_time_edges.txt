@@ -1,0 +1,12 @@
+Seattle_WA Redmond_WA 1 40 00
+Seattle_WA Bellevue_WA 3 20 00
+Bellevue_WA Redmond_WA 8 20 00
+Bellevue_WA Chicago_IL 5 00 00
+Chicago_IL Redmond_WA 1 40 00
+Austin_TX Chicago_IL 3 20 00
+Bellevue_WA Chicago_IL 18 20 00
+NewYorkCity_NY Austin_TX 1 40 00
+Chicago_IL NewYorkCity_NY 8 20 00
+NewYorkCity_NY Boston_MA 1 40 00
+Chicago_IL Boston_MA 6 40 00
+Redmond_WA Boston_MA 25 00 00

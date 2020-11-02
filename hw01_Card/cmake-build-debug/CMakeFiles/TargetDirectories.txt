@@ -1,0 +1,3 @@
+/Users/jiapei/Google Drive/NEU CS/cs5006/A1_Card/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiapei/Google Drive/NEU CS/cs5006/A1_Card/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiapei/Google Drive/NEU CS/cs5006/A1_Card/cmake-build-debug/CMakeFiles/A1_Card.dir
